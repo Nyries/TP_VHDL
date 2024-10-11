@@ -1,0 +1,18 @@
+<interfaceDefinition version='1.2' language='vhdl' kind='component' name='udcptrn'>
+  <useClause path='ieee.STD_LOGIC_UNSIGNED.all' />
+  <useClause path='ieee.std_logic_1164.all' />
+    <macroList>
+
+      <macro name='m' type='NATURAL' kind='' baseType='integer' initializer='12' />
+
+    </macroList>
+    <portList>
+
+      <port name='ud' direction='in' type='STD_LOGIC' kind='' />
+      <port name='reset' direction='in' type='STD_LOGIC' kind='' />
+      <port name='clk' direction='in' type='STD_LOGIC' kind='' />
+      <port name='enable' direction='in' type='STD_LOGIC' kind='' />
+      <port name='cptr' direction='out' type='std_logic_vector (m - 1 downto 0)' kind='array' library='work' package='udcptrn' packedDimension=' (m - 1 downto 0)' />
+
+    </portList>
+</interfaceDefinition>
