@@ -8,17 +8,20 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity RAM_2pMxNbits
 -- Compiling architecture RAM_2pMxNbits of RAM_2pMxNbits
 
-} {} {}} udcptrn_tb.vhd {1 {vcom -work work -2002 -explicit D:/Utilisateurs/cyprgabo82/udcptrn_tb.vhd
+} {} {}} D:/Utilisateurs/cyprgabo82/counter_dec.vhd {0 {vcom -work work -2002 -explicit D:/Utilisateurs/cyprgabo82/counter_dec.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package std_logic_arith
 -- Loading package STD_LOGIC_UNSIGNED
--- Compiling entity tb_udcptrn
--- Compiling architecture behavior of tb_udcptrn
+-- Compiling entity counter_dec
+** Error: (vcom-7) Failed to open library file "D:/Utilisateurs/cyprgabo82/work/counter_dec" in read/write/execute mode.
 
-} {} {}} D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd {1 {vcom -work work -2002 -explicit D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
+No such file or directory. (errno = ENOENT)
+** Error: D:/Utilisateurs/cyprgabo82/counter_dec.vhd(14): VHDL Compiler exiting
+
+} {9.0 10.0 12.0 13.0} {}} D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd {1 {vcom -work work -2002 -explicit D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
