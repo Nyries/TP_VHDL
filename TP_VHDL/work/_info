@@ -3,97 +3,116 @@ K3
 13
 cModel Technology
 dD:\Utilisateurs\cyprgabo82
+Pcomposants
+Z0 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z1 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+w1728660374
+Z2 dD:\Utilisateurs\cyprgabo82\TP_VHDL
+8D:/Utilisateurs/cyprgabo82/TP_VHDL/composants.vhd
+FD:/Utilisateurs/cyprgabo82/TP_VHDL/composants.vhd
+l0
+L4
+VbimFEg07Q`>a7d]TjO_1K3
+Z3 OV;C;10.1d;51
+32
+Z4 o-work work -2002 -explicit -O0
+Z5 tExplicit 1
+!s100 ?dXmWcmBT]g;IJz>_[hD=1
+!i10b 1
+!s108 1728660386.559000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/composants.vhd|
+!s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/composants.vhd|
 Ecounter_dec
-Z0 w1728659298
-Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
-Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
-Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
-Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z5 dD:\Utilisateurs\cyprgabo82\TP_VHDL
-Z6 8D:/Utilisateurs/cyprgabo82/counter_dec.vhd
-Z7 FD:/Utilisateurs/cyprgabo82/counter_dec.vhd
+Z6 w1728659298
+Z7 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z8 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z9 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+R1
+R2
+Z10 8D:/Utilisateurs/cyprgabo82/counter_dec.vhd
+Z11 FD:/Utilisateurs/cyprgabo82/counter_dec.vhd
 l0
 L5
 VQ]@0RDT0T4mljYEIZVhzh0
-Z8 OV;C;10.1d;51
+R3
 32
-Z9 !s108 1728659304.239000
-Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/counter_dec.vhd|
-Z11 !s107 D:/Utilisateurs/cyprgabo82/counter_dec.vhd|
-Z12 o-work work -2002 -explicit -O0
-Z13 tExplicit 1
+Z12 !s108 1728659304.239000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/counter_dec.vhd|
+Z14 !s107 D:/Utilisateurs/cyprgabo82/counter_dec.vhd|
+R4
+R5
 !s100 GmIzHL_i]3`5N5e=<l?Fk3
 !i10b 1
 Abehavioral
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 11 counter_dec 0 22 Q]@0RDT0T4mljYEIZVhzh0
 l18
 L16
 VLBY5k]`UUeOUEWWg1Ldc:2
-R8
+R3
 32
-R9
-R10
-R11
 R12
 R13
+R14
+R4
+R5
 !s100 ITPb=GaTQ98n895c_V1ci0
 !i10b 1
 Ecounter_dec_tb
-Z14 w1728655382
+Z15 w1728655382
+R7
+R8
+R9
 R1
 R2
-R3
-R4
-R5
-Z15 8D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd
-Z16 FD:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd
+Z16 8D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd
+Z17 FD:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd
 l0
 L5
 VP1D?Gk6lm7;c^z86SnFXM3
-R8
+R3
 32
-Z17 !s108 1728655386.563000
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd|
-Z19 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd|
-R12
-R13
+Z18 !s108 1728655386.563000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd|
+Z20 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/counter_dec_tb.vhd|
+R4
+R5
 !s100 EAJVCBmYNclXjbdXLI6nT0
 !i10b 1
 Abehavior
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 14 counter_dec_tb 0 22 P1D?Gk6lm7;c^z86SnFXM3
 l30
 L8
 VN<0IaHkbX=N]>F2_QhdB:1
-R8
+R3
 32
-R17
 R18
 R19
-R12
-R13
+R20
+R4
+R5
 !s100 DVI`9:N7K4_VjCXED`2m10
 !i10b 1
 Acounter_dec_tb_arch
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 14 counter_dec_tb 0 22 nP@gkL=Ta[zEQ7@ZZ9P@S0
 l25
 L9
 VUbfi7@6bC4N?m_1]W?52W2
-R8
+R3
 32
-Z20 o-work work -O0
-R13
+Z21 o-work work -O0
+R5
 Fcounter_dec_tb.vhd
 w1728654654
 8counter_dec_tb.vhd
@@ -103,96 +122,96 @@ w1728654654
 !s100 eKEi<nVAd]Mg`L=e1Wg]31
 !i10b 1
 Egenhl
-Z21 w1728659122
+Z22 w1728659122
+R7
+R8
+R9
 R1
 R2
-R3
-R4
-R5
-Z22 8D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd
-Z23 FD:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd
+Z23 8D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd
+Z24 FD:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd
 l0
 L5
 VSX3U@0KOAXc?[1Ece_PZ=2
-R8
+R3
 32
-Z24 !s108 1728659126.831000
-Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd|
-Z26 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd|
-R12
-R13
+Z25 !s108 1728659126.831000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd|
+Z27 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl.vhd|
+R4
+R5
 !s100 6l>ZMZzfK]D_bSnFH`6OS1
 !i10b 1
 Abehavioral
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 5 genhl 0 22 SX3U@0KOAXc?[1Ece_PZ=2
 l34
 L14
 V>W>n8KA`QfI<cV]8zFg7g2
-R8
+R3
 32
-R24
 R25
 R26
-R12
-R13
+R27
+R4
+R5
 !s100 gz501U8YoOlahbMVHb9f90
 !i10b 1
 Egenhl_tb
-Z27 w1728659466
+Z28 w1728659466
+R7
+R8
+R9
 R1
 R2
-R3
-R4
-R5
-Z28 8D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd
-Z29 FD:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd
+Z29 8D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd
+Z30 FD:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd
 l0
 L5
 VXQ]cZjBZSCEmm:XfNbT_`1
-!s100 G2l:M<:G>MAWb@9NkaPbB2
-R8
-32
-!i10b 1
-Z30 !s108 1728659469.696000
-Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd|
-Z32 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd|
-R12
-R13
-Abehavioral
-R1
-R2
 R3
+32
+Z31 !s108 1728659469.696000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd|
+Z33 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/genhl_tb.vhd|
 R4
-Z33 DEx4 work 8 genhl_tb 0 22 XQ]cZjBZSCEmm:XfNbT_`1
+R5
+!s100 G2l:M<:G>MAWb@9NkaPbB2
+!i10b 1
+Abehavioral
+R7
+R8
+R9
+R1
+DEx4 work 8 genhl_tb 0 22 XQ]cZjBZSCEmm:XfNbT_`1
 l29
 L8
 V3=ICME9DzTQI>1XJDo6z71
-!s100 4Ri2L@]Xk;Wac^f[1NTZf3
-R8
+R3
 32
-!i10b 1
-R30
 R31
 R32
-R12
-R13
-Agenhl_tb_arch
-R1
-R2
-R3
+R33
 R4
+R5
+!s100 4Ri2L@]Xk;Wac^f[1NTZf3
+!i10b 1
+Agenhl_tb_arch
+R7
+R8
+R9
+R1
 DEx4 work 8 genhl_tb 0 22 jh5>1=DOQNhSTVWdB=[m71
 l19
 L7
 VCSTzNa_Ll0ASAKU32F5zU2
-R8
+R3
 32
-R20
-R13
+R21
+R5
 Fgenhl_tb.vhd
 w1728656798
 8genhl_tb.vhd
@@ -201,120 +220,155 @@ w1728656798
 !s107 genhl_tb.vhd|
 !s100 oNMTR4Uc_2CaXoEQBnLQ_0
 !i10b 1
-Eram_2pmxnbits
-Z34 w1728651220
+Emux
+Z34 w1728660300
+R9
 R1
 R2
+Z35 8D:/Utilisateurs/cyprgabo82/TP_VHDL/mux.vhd
+Z36 FD:/Utilisateurs/cyprgabo82/TP_VHDL/mux.vhd
+l0
+L3
+V2eRIdn=^5E^6HEiaPCYmY2
+!s100 V]=9<Dca6;mIIn>e16F9N0
 R3
+32
+!i10b 1
+Z37 !s108 1728660386.628000
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/TP_VHDL/mux.vhd|
+Z39 !s107 D:/Utilisateurs/cyprgabo82/TP_VHDL/mux.vhd|
 R4
 R5
-Z35 8D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd
-Z36 FD:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd
+Amux
+R9
+R1
+DEx4 work 3 mux 0 22 2eRIdn=^5E^6HEiaPCYmY2
+l10
+L9
+VNnTITXcCYQUhUZcY2RRTo1
+!s100 TQim3`[FZ;KD[195Kf;=S1
+R3
+32
+!i10b 1
+R37
+R38
+R39
+R4
+R5
+Eram_2pmxnbits
+Z40 w1728651220
+R7
+R8
+R9
+R1
+R2
+Z41 8D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd
+Z42 FD:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd
 l0
 L4
 V`BdBh03CD2Uo5R6hXXSQ^1
-R8
+R3
 32
-Z37 !s108 1728654632.596000
-Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd|
-Z39 !s107 D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd|
-R12
-R13
+Z43 !s108 1728654632.596000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd|
+Z45 !s107 D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits.vhd|
+R4
+R5
 !s100 <X@0z<U=B=iRVGMjJ[Alc3
 !i10b 1
 Aram_2pmxnbits
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 13 ram_2pmxnbits 0 22 `BdBh03CD2Uo5R6hXXSQ^1
 l21
 L18
 VoW[3cAmgo5CPl:7iN^KRK2
-R8
-32
-R37
-R38
-R39
-R12
-R13
-!s100 JFO?eNcEQh96?UCzFGPTL0
-!i10b 1
-Eram_2pmxnbits_tb
-Z40 w1728651218
-R1
-R2
 R3
-R4
-R5
-Z41 8D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
-Z42 FD:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
-l0
-L4
-VQJ4LD4hi>Vg;n7T<X:mLM2
-R8
-32
-Z43 !s108 1728654632.681000
-Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd|
-Z45 !s107 D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd|
-R12
-R13
-!s100 dVbj@UXKFUfH^n:]F9X;^2
-!i10b 1
-Aram_2pmxnbits_tb_arch
-R1
-R2
-R3
-R4
-DEx4 work 16 ram_2pmxnbits_tb 0 22 QJ4LD4hi>Vg;n7T<X:mLM2
-l29
-L10
-VGBYW7b]6W6l3cfRa1m5eV1
-R8
 32
 R43
 R44
 R45
-R12
-R13
+R4
+R5
+!s100 JFO?eNcEQh96?UCzFGPTL0
+!i10b 1
+Eram_2pmxnbits_tb
+Z46 w1728651218
+R7
+R8
+R9
+R1
+R2
+Z47 8D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
+Z48 FD:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd
+l0
+L4
+VQJ4LD4hi>Vg;n7T<X:mLM2
+R3
+32
+Z49 !s108 1728654632.681000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd|
+Z51 !s107 D:/Utilisateurs/cyprgabo82/RAM_2pMxNbits_tb.vhd|
+R4
+R5
+!s100 dVbj@UXKFUfH^n:]F9X;^2
+!i10b 1
+Aram_2pmxnbits_tb_arch
+R7
+R8
+R9
+R1
+DEx4 work 16 ram_2pmxnbits_tb 0 22 QJ4LD4hi>Vg;n7T<X:mLM2
+l29
+L10
+VGBYW7b]6W6l3cfRa1m5eV1
+R3
+32
+R49
+R50
+R51
+R4
+R5
 !s100 0CU:_BXP9V`=;d<C;iiZ60
 !i10b 1
 Etb_counter_dec
-Z46 w1728654700
+Z52 w1728654700
+R7
+R8
+R9
 R1
 R2
-R3
-R4
-R5
-R15
 R16
+R17
 l0
 L5
 V4eh9Je7>:mRiYNZk=6fWc2
-R8
+R3
 32
-Z47 !s108 1728654703.234000
-R18
+Z53 !s108 1728654703.234000
 R19
-R12
-R13
+R20
+R4
+R5
 !s100 g[JhJ3_D7J7L8Z_5O0PZj1
 !i10b 1
 Abehavior
+R7
+R8
+R9
 R1
-R2
-R3
-R4
 DEx4 work 14 tb_counter_dec 0 22 4eh9Je7>:mRiYNZk=6fWc2
 l30
 L8
 V_nQH`KaNdSfo2HbPXMWRB1
-R8
+R3
 32
-R47
-R18
+R53
 R19
-R12
-R13
+R20
+R4
+R5
 !s100 bUUXV_1S<KH2Y87<MWYMB1
 !i10b 1

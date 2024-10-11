@@ -18,9 +18,6 @@ entity GENADR is
 end GENADR;
 
 architecture GENADR of GENADR is
-  signal count_read, count_write : std_logic_vector(M-1 downto 0) := "000000000000";
 begin
-count_dec('1',RESET,CLK,INCREAD,count_read);
-  count_dec('1',RESET,CLK,INCWRITE, count_write);
-  ADRG <= mux(count_read, count_write, SELREAD);
+  
 end GENADR;
